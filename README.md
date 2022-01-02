@@ -128,6 +128,12 @@ and you are ready to go, restart your terminal. Enjoy!
 
 and then restart your terminal
 
+### AUR
+You can install from [Arch User Repository](https://wiki.archlinux.org/title/Arch_User_Repository) using any [AUR helper](https://wiki.archlinux.org/title/AUR_helpers) for example:
+```
+paru lsx-git
+```
+
 **open an issue if still facing installation problems**
 
 ## How to update?
